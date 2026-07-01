@@ -6,7 +6,7 @@ This project involves performing comprehensive financial analysis, including Des
 
 ## Web Application
 You can access the live project here:
-[Czechoslovakia Financial Intelligence Suite](https://czechoslovakia-financial-intelligence-suite.streamlit.app)
+https://bankinganalyticsframework-dne8n2vwhgl9kkqq2hvvu5.streamlit.app/
 
 **Login Credentials for Reviewer:**
 - **User ID:** [Enter your User ID here]
